@@ -1,0 +1,95 @@
+html {
+    background-image: url(https://s3.amazonaws.com/designco-web-assets/uploads/2017/07/Podcast-large_2x-1450x1112.png);
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    color: aliceblue;
+    margin-top: 8%;
+    font-size: 20px;
+}
+button {
+    background-color: transparent;
+    color: White;
+    text-transform: uppercase;
+    border-radius: 30px;
+    size: 50px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 75px;
+    margin-top: 205;
+    word-spacing: 2rem;
+    flex-wrap: wrap-reverse;
+}
+.paragraph {
+    display: flex;
+    align-content: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-display: center;
+    text-align: center;
+    flex-wrap: wrap-reverse;   
+}
+.button-2 {
+    display: flex;
+    justify-content: center;
+    padding: 25px 45px;
+    background-color: aliceblue;
+    color: blue; 
+    align-items: center;
+}
+.UGH {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+.side {
+    color: white;
+    transform: rotate(-90deg);
+    position: fixed;
+    font-size: 25px;
+    left: -80px;
+}
+.UGH2 {
+    
+    transform: rotate(0.5 turn)
+}
+.icons {
+    display: flex;
+    flex-direction: column;
+    margin-left: 95vw;
+    position: absolute;
+    
+}
+.Twitter {
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    background: transparent;
+}
+.Facebook {
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    background: transparent;
+}
+.Linkldin {
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    background: transparent;
+}
+.Share {
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    background: transparent;
+}
